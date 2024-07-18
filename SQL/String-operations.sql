@@ -2,7 +2,7 @@
 SELECT * FROM departments;
 SELECT * FROM employee;
 
-/* String operations */
+/* String operations*/
 
 /* Concating the string */
 SELECT CONCAT(first_name,' ',last_name) AS full_name FROM employee;
